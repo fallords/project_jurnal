@@ -4,14 +4,17 @@ export default {
             "./resources/**/*.js",
             "./resources/**/*.vue",],
   theme: {
-    mytheme: {
-      "primary": "#4C3431",
-      "secondary": "#9B5231",
-      "accent": "##B58449",
-      "neutral": "#3d4451",
-      "base-100": "#ffffff",
+    colors: {
+      choco:"#4C3431",
+      almond:"#9B5231",
+      caramel:"#B58449",
+      lightcaramel:"#C9985D",
     },
-    extend: {},
+    extend: {
+      backgroundImage:{
+        "hero-lg" : "url(../../image/background_jurnal_login.png)"
+      },
+    },
   },
   plugins: [require("daisyui")],
   daisyui: {

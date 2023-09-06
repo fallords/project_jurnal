@@ -9,6 +9,25 @@
     <link rel="stylesheet" href="../css/app.css">
 </head>
 <body>
-  <div class="bg-fixed" style="background-image: url(../../image/background_jurnal_login.png)"></div>
+<div class="bg-hero-lg bg-cover bg-base-200 bg-center min-h-screen">
+  <div class="hero-content flex-col lg:flex-row-reverse">
+    <div class="card flex-shrink-0 w-full max-w-sm mr-auto ml-24 mt-40">
+      <div class="card-body">
+        <div class="form-control">
+          <input type="text" placeholder="Username" class="input input-bordered input-sm w-full max-w-xs" />
+        </div>
+        <div class="form-control">
+          <input type="text" placeholder="Password" class="input input-bordered input-sm w-full max-w-xs" />
+          <label class="label">
+            <a href="#" class="label-text-alt link link-hover">Lupa Password?</a>
+          </label>
+        </div>
+        <div class="mt-6">
+          <button class="btn rounded-full bg-lightcaramel w-36">Login</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 </body>
 </html>
