@@ -11,7 +11,7 @@
 <body>
 <div class="bg-hero-lg bg-cover bg-base-200 bg-center min-h-screen">
   <div class="hero-content flex-col lg:flex-row-reverse">
-    <div class="card flex-shrink-0 w-full max-w-sm mr-auto ml-24 mt-60">
+    <div class="card flex-shrink-0 w-full max-w-sm mr-auto ml-44 mt-60">
       <div class="card-body">
         <div class="form-control">
           <input type="text" placeholder="Username" class="input input-bordered input-sm w-full max-w-xs" />
