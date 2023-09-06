@@ -11,7 +11,7 @@
 <body>
 <div class="bg-hero-lg bg-cover bg-base-200 bg-center min-h-screen">
   <div class="hero-content flex-col lg:flex-row-reverse">
-    <div class="card flex-shrink-0 w-full max-w-sm mr-auto ml-24 mt-40">
+    <div class="card flex-shrink-0 w-full max-w-sm mr-auto ml-24 mt-60">
       <div class="card-body">
         <div class="form-control">
           <input type="text" placeholder="Username" class="input input-bordered input-sm w-full max-w-xs" />
@@ -22,8 +22,8 @@
             <a href="#" class="label-text-alt link link-hover">Lupa Password?</a>
           </label>
         </div>
-        <div class="mt-6">
-          <button class="btn rounded-full bg-lightcaramel w-36">Login</button>
+        <div class="text-white mt-6">
+          <button class="btn-neutral h-10 rounded-full bg-lightcaramel w-36 font-bold ml-20">Login</button>
         </div>
       </div>
     </div>
