@@ -12,7 +12,8 @@ export default {
     },
     extend: {
       backgroundImage:{
-        "hero-lg" : "url(../../image/background_jurnal_login.png)"
+        "hero-lg" : "url(../../image/background_jurnal_login.png)",
+        "hero-rgs" : "url(../../image/background_jurnal_regis.png)"
       },
     },
   },
