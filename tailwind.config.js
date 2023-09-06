@@ -9,6 +9,7 @@ export default {
       almond:"#9B5231",
       caramel:"#B58449",
       lightcaramel:"#C9985D",
+      greymon: "#8D8D8D",
     },
     extend: {
       backgroundImage:{
