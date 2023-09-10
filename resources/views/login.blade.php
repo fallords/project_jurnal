@@ -19,12 +19,13 @@
         <div class="form-control">
           <input type="text" placeholder="Password" class="input input-bordered input-sm w-full max-w-xs" />
           <label class="label">
-            <a href="#" class="label-text-alt link link-hover">Lupa Password?</a>
+            <a href="#" class="label-text-alt link link-hover font-bold">Lupa Password?</a>
           </label>
         </div>
         <div class="text-white mt-6">
           <button class="btn-neutral h-10 rounded-full bg-lightcaramel w-36 font-bold ml-20">Login</button>
         </div>
+        <p class="ml-10">Dont have an account?<a class="link link-hover font-bold" href="/register">Register</a></p>
       </div>
     </div>
   </div>
