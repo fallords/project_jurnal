@@ -9,6 +9,7 @@ export default {
       almond:"#9B5231",
       caramel:"#B58449",
       lightcaramel:"#C9985D",
+      greymon: "#8D8D8D",
     },
     mytheme: {
       "primary": "#4C3431",     
@@ -23,7 +24,8 @@ export default {
     },
     extend: {
       backgroundImage:{
-        "hero-lg" : "url(../../image/background_jurnal_login.png)"
+        "hero-lg" : "url(../../image/background_jurnal_login.png)",
+        "hero-rgs" : "url(../../image/background_jurnal_regis.png)"
       },
     },
   },
