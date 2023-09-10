@@ -10,7 +10,7 @@ export default {
       caramel:"#B58449",
       lightcaramel:"#C9985D",
       greymon: "#8D8D8D",
-      white:"#fff"
+      white:"#fff",
     },
     mytheme: {
       "primary": "#4C3431",     
@@ -24,6 +24,11 @@ export default {
       "error": "#1d232a",
     },
     extend: {
+      fontFamily: {
+        sans: [
+          'sans-serif',
+        ],
+      },
       backgroundImage:{
         "hero-lg" : "url(../../image/background_jurnal_login.png)",
         "hero-rgs" : "url(../../image/background_jurnal_regis.png)"

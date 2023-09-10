@@ -11,7 +11,8 @@
 <body>
 <div class="bg-hero-lg bg-cover bg-base-200 bg-center min-h-screen">
   <div class="hero-content flex-col lg:flex-row-reverse">
-    <div class="card flex-shrink-0 w-full max-w-sm mr-auto ml-44 mt-60">
+    <div class="card flex-shrink-0 w-full max-w-sm mr-auto ml-48 mt-60 h-80">
+    <h2 class="text-4xl font-bold mx-auto mb-4">Login</h2>
       <div class="card-body">
         <div class="form-control">
           <input type="text" placeholder="Username" class="input input-bordered input-sm w-full max-w-xs focus:outline-none focus:border-lightcaramel focus:ring-1 focus:ring-lightcaramel" />
