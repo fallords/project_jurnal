@@ -10,6 +10,7 @@ export default {
       caramel:"#B58449",
       lightcaramel:"#C9985D",
       greymon: "#8D8D8D",
+      white:"#fff"
     },
     mytheme: {
       "primary": "#4C3431",     

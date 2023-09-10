@@ -14,10 +14,10 @@
     <div class="card flex-shrink-0 w-full max-w-sm mr-auto ml-44 mt-60">
       <div class="card-body">
         <div class="form-control">
-          <input type="text" placeholder="Username" class="input input-bordered input-sm w-full max-w-xs" />
+          <input type="text" placeholder="Username" class="input input-bordered input-sm w-full max-w-xs focus:outline-none focus:border-lightcaramel focus:ring-1 focus:ring-lightcaramel" />
         </div>
         <div class="form-control">
-          <input type="text" placeholder="Password" class="input input-bordered input-sm w-full max-w-xs" />
+          <input type="text" placeholder="Password" class="input input-bordered input-sm w-full max-w-xs focus:outline-none focus:border-lightcaramel focus:ring-1 focus:ring-lightcaramel" />
           <label class="label">
             <a href="#" class="label-text-alt link link-hover font-bold">Lupa Password?</a>
           </label>
